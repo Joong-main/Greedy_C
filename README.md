@@ -1,4 +1,4 @@
-# Greedy_c
+# Greedy_C
 
 ## Greedy type Solutions (with C Language)
 
